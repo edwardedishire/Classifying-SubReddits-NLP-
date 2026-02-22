@@ -1,4 +1,5 @@
 # Project 3: Binary Classification of Subreddits (NLP)
+Edward Edishire Koh
 
 
 ## Problem Statement
